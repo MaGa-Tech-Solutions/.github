@@ -104,9 +104,8 @@ Cuéntanos tu idea y te respondemos en menos de 24 horas. Precios claros, pagos 
 
 <br/><br/>
 
-![Followers](https://img.shields.io/github/followers/MaGa-Tech?style=social)
-![Stars](https://img.shields.io/github/stars/MaGa-Tech?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=MaGa-Tech&label=Visitas&color=D14836&style=flat)
+![Followers](https://img.shields.io/github/followers/MaGa-Tech-Solutions?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=MaGa-Tech-Solutions&label=Visitas&color=D14836&style=flat)
 
 <sub>Hecho con ☕ y código en México · <code>MaGaTech // solutions</code></sub>
 
