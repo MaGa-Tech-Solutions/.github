@@ -34,12 +34,12 @@ We're a **Mexican tech studio** building custom software from scratch — not te
 
 | | Service | |
 |:--:|:--|:--|
-| <img src="./assets/icons/web.svg" width="26" /> | **Websites & landing pages** | Fast, responsive, and built to convert |
-| <img src="./assets/icons/mobile.svg" width="26" /> | **Mobile apps** | iOS & Android from a single codebase |
-| <img src="./assets/icons/software.svg" width="26" /> | **Custom enterprise software** | Systems that automate your operation |
-| <img src="./assets/icons/ecommerce.svg" width="26" /> | **E-commerce** | Online stores with integrated payments |
-| <img src="./assets/icons/automation.svg" width="26" /> | **Automation & integrations** | Connect your tools and cut manual work |
-| <img src="./assets/icons/support.svg" width="26" /> | **Consulting & technical support** | Guidance at every phase of the project |
+| <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/web.svg" width="26" /> | **Websites & landing pages** | Fast, responsive, and built to convert |
+| <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/mobile.svg" width="26" /> | **Mobile apps** | iOS & Android from a single codebase |
+| <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/software.svg" width="26" /> | **Custom enterprise software** | Systems that automate your operation |
+| <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/ecommerce.svg" width="26" /> | **E-commerce** | Online stores with integrated payments |
+| <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/automation.svg" width="26" /> | **Automation & integrations** | Connect your tools and cut manual work |
+| <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/support.svg" width="26" /> | **Consulting & technical support** | Guidance at every phase of the project |
 
 <br/>
 
@@ -73,7 +73,7 @@ We're a **Mexican tech studio** building custom software from scratch — not te
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/icons/saas.svg" width="20" align="center" /> Goldesk
+### <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/saas.svg" width="20" align="center" /> Goldesk
 A complete **SaaS** platform with payments, subscriptions, and PWA.
 
 `Next.js` · `NestJS` · `PostgreSQL` · `Stripe`
@@ -81,7 +81,7 @@ A complete **SaaS** platform with payments, subscriptions, and PWA.
 </td>
 <td width="50%" valign="top">
 
-### <img src="./assets/icons/pharmacy.svg" width="20" align="center" /> Farmacias ISSEG
+### <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/pharmacy.svg" width="20" align="center" /> Farmacias ISSEG
 A pharmacy **e-commerce** with geolocation and payments.
 
 `Angular` · `Tailwind` · `Google Maps` · `OpenPay BBVA`
