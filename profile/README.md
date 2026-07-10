@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.svg" />
-  <img src="./assets/logo-light.svg" width="560" alt="MaGaTech // solutions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/logo-light.svg" />
+  <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/logo-light.svg" width="560" alt="MaGaTech // solutions" />
 </picture>
 
 <br/><br/>
