@@ -73,9 +73,7 @@ We're a **Mexican tech studio** building custom software from scratch — not te
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/saas.svg" width="26" />
-
-### Goldesk
+### <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/saas.svg" width="20" align="middle" /> Goldesk
 
 A complete **SaaS** platform with payments, subscriptions, and PWA.
 
@@ -84,9 +82,7 @@ A complete **SaaS** platform with payments, subscriptions, and PWA.
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/pharmacy.svg" width="26" />
-
-### Farmacias ISSEG
+### <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/pharmacy.svg" width="20" align="middle" /> Farmacias ISSEG
 
 A pharmacy **e-commerce** with geolocation and payments.
 
