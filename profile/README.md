@@ -9,41 +9,41 @@
 <br/><br/>
 
 <a href="https://magatechsolutions.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D14836&center=true&vCenter=true&width=650&lines=Tu+negocio+vende+m%C3%A1s+y+trabaja+menos.;Sitios+web+%2F%2F+Apps+m%C3%B3viles+%2F%2F+Software+a+la+medida;Custom-built+technology%2C+not+templates.;Respondemos+en+menos+de+24+horas." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Your+business+sells+more+and+works+less.;Websites+%2F%2F+Mobile+apps+%2F%2F+Custom+software;Custom-built+technology%2C+not+templates.;We+reply+in+under+24+hours." alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/magatechsolutions.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://magatechsolutions.com)
-[![Email](https://img.shields.io/badge/contact@magatechsolutions.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@magatechsolutions.com)
+[![Website](https://img.shields.io/badge/magatechsolutions.com-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://magatechsolutions.com)
+[![Email](https://img.shields.io/badge/contact@magatechsolutions.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@magatechsolutions.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/526242658189)
 
 </div>
 
 ---
 
-## `//` Quiénes somos
+## `//` Who we are
 
-Somos un **estudio de tecnología mexicano** 🇲🇽 que construye soluciones a la medida — no plantillas. Del código al despliegue, el trabajo lo hacen directamente los fundadores, con **precios transparentes** y respuesta en menos de **24 horas**.
+We're a **Mexican tech studio** building custom software from scratch — not templates. From code to deployment, the work is done directly by the founders, with **transparent pricing** and replies in under **24 hours**.
 
-> We're a Mexican tech studio building custom software from scratch — websites, mobile apps, and enterprise systems designed to grow your business.
+> Websites, mobile apps, and enterprise systems designed to make your business sell more and work less.
 
 <br/>
 
-## `//` Qué hacemos
+## `//` What we do
 
-| | Servicio | |
+| | Service | |
 |:--:|:--|:--|
-| 🌐 | **Sitios web & landing pages** | Rápidos, responsivos y listos para convertir |
-| 📱 | **Apps móviles** | iOS & Android desde una sola base |
-| ⚙️ | **Software empresarial a la medida** | Sistemas que automatizan tu operación |
-| 🛒 | **E-commerce** | Tiendas en línea con pagos integrados |
-| 🔗 | **Automatización & integraciones** | Conecta tus herramientas y elimina el trabajo manual |
-| 🧩 | **Consultoría & soporte técnico** | Acompañamiento en cada fase del proyecto |
+| <img src="./assets/icons/web.svg" width="26" /> | **Websites & landing pages** | Fast, responsive, and built to convert |
+| <img src="./assets/icons/mobile.svg" width="26" /> | **Mobile apps** | iOS & Android from a single codebase |
+| <img src="./assets/icons/software.svg" width="26" /> | **Custom enterprise software** | Systems that automate your operation |
+| <img src="./assets/icons/ecommerce.svg" width="26" /> | **E-commerce** | Online stores with integrated payments |
+| <img src="./assets/icons/automation.svg" width="26" /> | **Automation & integrations** | Connect your tools and cut manual work |
+| <img src="./assets/icons/support.svg" width="26" /> | **Consulting & technical support** | Guidance at every phase of the project |
 
 <br/>
 
-## `//` Nuestro stack
+## `//` Our stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -55,33 +55,34 @@ Somos un **estudio de tecnología mexicano** 🇲🇽 que construye soluciones a
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
 </p>
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
   <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white" />
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_%2F_LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 <br/>
 
-## `//` Proyectos destacados
+## `//` Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Goldesk
-Plataforma **SaaS** completa con pagos, suscripciones y PWA.
+### <img src="./assets/icons/saas.svg" width="20" align="center" /> Goldesk
+A complete **SaaS** platform with payments, subscriptions, and PWA.
 
 `Next.js` · `NestJS` · `PostgreSQL` · `Stripe`
 
 </td>
 <td width="50%" valign="top">
 
-### 💊 Farmacias ISSEG
-**E-commerce** de farmacia con geolocalización y pagos.
+### <img src="./assets/icons/pharmacy.svg" width="20" align="center" /> Farmacias ISSEG
+A pharmacy **e-commerce** with geolocation and payments.
 
 `Angular` · `Tailwind` · `Google Maps` · `OpenPay BBVA`
 
@@ -91,24 +92,24 @@ Plataforma **SaaS** completa con pagos, suscripciones y PWA.
 
 <br/>
 
-## `//` ¿Listo para empezar?
+## `//` Ready to start?
 
 <div align="center">
 
-Cuéntanos tu idea y te respondemos en menos de 24 horas. Precios claros, pagos por etapas, sin sorpresas.
+Tell us your idea and we'll reply in under 24 hours. Clear pricing, phased payments, no surprises.
 
-**Sitios web profesionales desde $3,999 MXN**
+**Professional websites starting at $3,999 MXN**
 
-[![Cotiza tu proyecto](https://img.shields.io/badge/%E2%9C%A6%20Cotiza%20tu%20proyecto-0A0A0A?style=for-the-badge)](https://magatechsolutions.com/es/cotizar)
-[![Ver servicios](https://img.shields.io/badge/Ver%20servicios-555555?style=for-the-badge)](https://magatechsolutions.com/es/servicios)
+[![Get a quote](https://img.shields.io/badge/%E2%9C%A6%20Get%20a%20quote-4F46E5?style=for-the-badge)](https://magatechsolutions.com/es/cotizar)
+[![See services](https://img.shields.io/badge/See%20services-7C3AED?style=for-the-badge)](https://magatechsolutions.com/es/servicios)
 
 <br/><br/>
 
 ![Followers](https://img.shields.io/github/followers/MaGa-Tech-Solutions?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=MaGa-Tech-Solutions&label=Visitas&color=D14836&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=MaGa-Tech-Solutions&label=Views&color=8B5CF6&style=flat)
 
-<sub>Hecho con ☕ y código en México · <code>MaGaTech // solutions</code></sub>
+<sub>Made with &#9749; and code in Mexico &#183; <code>MaGaTech // solutions</code></sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:D14836&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F7DFF,100:8B5CF6&height=100&section=footer" width="100%" alt="" />
