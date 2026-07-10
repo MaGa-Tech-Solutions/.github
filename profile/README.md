@@ -72,22 +72,14 @@ We're a **Mexican tech studio** building custom software from scratch — not te
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-
-<h3 align="center"><img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/saas.svg" width="20" align="middle" /> Goldesk</h3>
-
-A complete **SaaS** platform with payments, subscriptions, and PWA.
-
-`Next.js` · `NestJS` · `PostgreSQL` · `Stripe`
-
+<h3><img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/saas.svg" width="20" align="middle" /> Goldesk</h3>
+A complete <b>SaaS</b> platform with payments, subscriptions, and PWA.<br/><br/>
+<code>Next.js</code> · <code>NestJS</code> · <code>PostgreSQL</code> · <code>Stripe</code>
 </td>
 <td width="50%" valign="top" align="center">
-
-<h3 align="center"><img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/pharmacy.svg" width="20" align="middle" /> Farmacias ISSEG</h3>
-
-A pharmacy **e-commerce** with geolocation and payments.
-
-`Angular` · `Tailwind` · `Google Maps` · `OpenPay BBVA`
-
+<h3><img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/pharmacy.svg" width="20" align="middle" /> Farmacias ISSEG</h3>
+A pharmacy <b>e-commerce</b> with geolocation and payments.<br/><br/>
+<code>Angular</code> · <code>Tailwind</code> · <code>Google Maps</code> · <code>OpenPay BBVA</code>
 </td>
 </tr>
 </table>
