@@ -71,17 +71,23 @@ We're a **Mexican tech studio** building custom software from scratch — not te
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/saas.svg" width="20" align="center" /> Goldesk
+<img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/saas.svg" width="26" />
+
+### Goldesk
+
 A complete **SaaS** platform with payments, subscriptions, and PWA.
 
 `Next.js` · `NestJS` · `PostgreSQL` · `Stripe`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/pharmacy.svg" width="20" align="center" /> Farmacias ISSEG
+<img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/icons/pharmacy.svg" width="26" />
+
+### Farmacias ISSEG
+
 A pharmacy **e-commerce** with geolocation and payments.
 
 `Angular` · `Tailwind` · `Google Maps` · `OpenPay BBVA`
