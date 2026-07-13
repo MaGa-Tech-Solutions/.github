@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="MaGaTech // solutions — Custom software, sell more, work less">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="MaGaTech // solutions â€” Custom software, sell more, work less">
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#22d3ee"/>
@@ -58,7 +58,7 @@
   </g>
 
   <!-- tagline -->
-  <text x="600" y="276" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="400" font-size="19" fill="#94a3b8">Custom software &#8212; your business sells more and works less.</text>
+  <text x="600" y="276" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="400" font-size="19" fill="#94a3b8">Custom software. Your business sells more and works less.</text>
 
   <!-- status line -->
   <circle cx="452" cy="326" r="4" fill="#34d399">

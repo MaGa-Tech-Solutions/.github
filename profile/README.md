@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://magatechsolutions.com">
-  <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/hero.svg" width="100%" alt="MaGaTech // solutions — Custom software, your business sells more and works less" />
+  <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/hero.svg" width="100%" alt="MaGaTech // solutions: custom software. Your business sells more and works less." />
 </a>
 
 <br/><br/>
 
 <a href="https://magatechsolutions.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Your+business+sells+more+and+works+less.;Websites+%2F%2F+Mobile+apps+%2F%2F+E-commerce+%2F%2F+Automation;Custom-built+by+the+founders.+No+templates.;Clear+quote+in+under+24+hours." alt="Your business sells more and works less. Websites, mobile apps, e-commerce, automation. Custom-built by the founders — no templates. Clear quote in under 24 hours." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Your+business+sells+more+and+works+less.;Websites+%2F%2F+Mobile+apps+%2F%2F+E-commerce+%2F%2F+Automation;No+templates.+100%25+custom+software.;Clear+quote+in+under+24+hours." alt="Your business sells more and works less. Websites, mobile apps, e-commerce, automation. No templates, 100% custom software. Clear quote in under 24 hours." />
 </a>
 
 <br/>
@@ -20,26 +20,10 @@
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>&lt;24h</h3>
-<sub>clear quote —<br/>no fine print</sub>
-</td>
-<td align="center" width="25%">
-<h3>100%</h3>
-<sub>custom code —<br/>zero templates</sub>
-</td>
-<td align="center" width="25%">
-<h3>0</h3>
-<sub>intermediaries —<br/>you talk to the builders</sub>
-</td>
-<td align="center" width="25%">
-<h3>12+</h3>
-<sub>modern technologies<br/>in production</sub>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/quote-%3C24h-0891B2?style=for-the-badge&labelColor=0B1222" alt="Quote in under 24 hours" />
+<img src="https://img.shields.io/badge/code-100%25_custom-6366F1?style=for-the-badge&labelColor=0B1222" alt="100% custom code" />
+<img src="https://img.shields.io/badge/templates-zero-7C3AED?style=for-the-badge&labelColor=0B1222" alt="Zero templates" />
+<img src="https://img.shields.io/badge/stack-12%2B_technologies-8B5CF6?style=for-the-badge&labelColor=0B1222" alt="12+ technologies in production" />
 
 </div>
 
@@ -47,13 +31,15 @@
 
 ## `//` who we are
 
-We're a **Mexican software studio run by two brothers**. Everything — from the first sketch to the production deploy — is built directly by the founders. No account managers, no outsourcing, no templates.
+We're a **Mexican software development studio for businesses and companies**. We design and build websites, mobile apps, e-commerce, and internal systems tailored to how each operation actually works. You always talk directly with the team that builds your project.
 
-> We analyze how your business operates and build exactly what it needs: websites, apps, and systems designed to **sell more and work less** — with transparent pricing and a clear quote in under **24 hours**.
+> No templates: we analyze your operation and build exactly what your business needs to **sell more and work less**, with transparent pricing and a clear quote in under **24 hours**.
 
 <br/>
 
 ## `//` what we do
+
+<div align="center">
 
 <table>
 <tr>
@@ -110,11 +96,13 @@ We're a **Mexican software studio run by two brothers**. Everything — from the
 <br/><br/>
 <b>Support & consulting</b>
 <br/>
-<sub>We stay after launch —<br/>maintenance, improvements, guidance</sub>
+<sub>Maintenance, improvements, and<br/>guidance after every launch</sub>
 <br/><br/>
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -128,14 +116,16 @@ $ magatech init your-project
   [3/4] build ───── visible progress, every single week
   [4/4] launch ──── deploy + ongoing support. we don't disappear
 
-✓ done — your business now sells more and works less.
+✓ done: your business now sells more and works less.
 ```
 
 <br/>
 
 ## `//` our stack
 
-#### `> build`
+<div align="center">
+
+`// build`
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -149,7 +139,7 @@ $ magatech init your-project
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
 </p>
 
-#### `> ship & integrate`
+`// ship & integrate`
 
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
@@ -162,6 +152,8 @@ $ magatech init your-project
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps" />
   <img src="https://img.shields.io/badge/AI_%2F_LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="AI / LLMs" />
 </p>
+
+</div>
 
 <br/>
 
@@ -176,7 +168,7 @@ $ magatech init your-project
 
 [![Live](https://img.shields.io/badge/%E2%97%8F%20live-goldesk.app-34D399?style=flat-square&labelColor=0B1222)](https://goldesk.app)
 
-A complete <b>SaaS booking platform</b> — subscriptions, Stripe payments, PWA, and a full admin panel with KPIs and finances.
+A complete <b>SaaS booking platform</b>: subscriptions, Stripe payments, PWA, and a full admin panel with KPIs and finances.
 <br/><br/>
 <code>Next.js</code> · <code>NestJS</code> · <code>PostgreSQL</code> · <code>Stripe</code>
 <br/><br/>
@@ -209,7 +201,7 @@ A pharmacy <b>e-commerce</b> with store geolocation, product catalog, and integr
 <div align="center">
 <br/>
 
-**Tell us your idea — we reply in under 24 hours with a clear quote.**
+**Tell us your idea. We reply in under 24 hours with a clear quote.**
 
 Phased payments · you approve the design before we build · no surprises.
 
@@ -223,15 +215,8 @@ Professional websites from **$3,999 MXN** <sub>(launch price)</sub>
 
 <br/><br/>
 
-![Followers](https://img.shields.io/github/followers/MaGa-Tech-Solutions?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=MaGa-Tech-Solutions&label=Views&color=22D3EE&style=flat)
-
-<sub>Made with &#9749; and code in Los Cabos, M&#233;xico</sub>
-
-<br/><br/>
-
 <a href="https://magatechsolutions.com">
-  <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/footer.svg" width="100%" alt="MaGaTech // solutions — Los Cabos, B.C.S., México" />
+  <img src="https://raw.githubusercontent.com/MaGa-Tech-Solutions/.github/main/profile/assets/footer.svg" width="100%" alt="MaGaTech // solutions · Los Cabos, B.C.S., México" />
 </a>
 
 </div>

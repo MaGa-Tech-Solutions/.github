@@ -10,5 +10,5 @@
     <tspan fill="#0A0A0A">MaGaTech</tspan><tspan fill="url(#accent)"> // </tspan><tspan fill="#1A1A1A">solutions</tspan>
   </text>
   <rect x="40" y="88" width="520" height="3" rx="1.5" fill="url(#accent)" opacity="0.9"/>
-  <text x="40" y="118" font-family="'Fira Code','JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="400" font-size="15" fill="#5F6368">Custom software &#8212; sell more, work less</text>
+  <text x="40" y="118" font-family="'Fira Code','JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-weight="400" font-size="15" fill="#5F6368">Custom software. Sell more, work less</text>
 </svg>
